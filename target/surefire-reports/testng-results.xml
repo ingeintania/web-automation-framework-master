@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<font color='Black'>Launching 'chrome' browser in local...</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Navigating to URL : https://demo.midtrans.com/</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'><B>Screenshot</B>:- <a href=/Users/ingeintania/Documents/Framework/web-automation-framework-master/test-output/html/testBuyNowClick_2025-05-15_15-09-53.png target='_blank' >testBuyNowClick_2025-05-15_15-09-53.png</a></font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'><B>Page URL</B>:- <a href=https://demo.midtrans.com/ target='_blank' >https://demo.midtrans.com/</a></font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Browser is closed now.</font></br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-05-15T08:09:50Z" name="Practice Suite" finished-at="2025-05-15T08:09:55Z" duration-ms="4546">
+    <groups>
+    </groups>
+    <test started-at="2025-05-15T08:09:50Z" name="Test Sample Midtrans" finished-at="2025-05-15T08:09:55Z" duration-ms="4546">
+      <class name="TestAutomation.TestBuyNow">
+        <test-method signature="testBuyNowClick(TestAutomation.helpers.Config)[pri:0, instance:TestAutomation.TestBuyNow@59717824]" started-at="2025-05-15T15:09:50Z" name="testBuyNowClick" description="This testcase is verifying successful buy now click to Midtrans demo site" data-provider="getTestConfig" finished-at="2025-05-15T15:09:55Z" duration-ms="4440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestAutomation.helpers.Config@5e8ac0e1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<font color='Black'>Launching 'chrome' browser in local...</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Navigating to URL : https://demo.midtrans.com/</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'><B>Screenshot</B>:- <a href=/Users/ingeintania/Documents/Framework/web-automation-framework-master/test-output/html/testBuyNowClick_2025-05-15_15-09-53.png target='_blank' >testBuyNowClick_2025-05-15_15-09-53.png</a></font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'><B>Page URL</B>:- <a href=https://demo.midtrans.com/ target='_blank' >https://demo.midtrans.com/</a></font></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBuyNowClick -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestAutomation.TestBuyNow@59717824]" started-at="2025-05-15T15:09:55Z" name="afterMethod" finished-at="2025-05-15T15:09:55Z" duration-ms="92" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<font color='Black'>Browser is closed now.</font></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestAutomation.TestBuyNow -->
+    </test> <!-- Test Sample Midtrans -->
+  </suite> <!-- Practice Suite -->
+</testng-results>
